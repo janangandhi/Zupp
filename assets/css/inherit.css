@@ -1,0 +1,185 @@
+#head1
+{
+	font-size: 60px;
+	color: white;
+	font-weight: 700;
+}
+
+#s1
+{
+	color: rgb(250, 178, 14);
+}
+
+#main1 h1
+{
+	color: rgb(250, 178, 14);
+	font-family: 'Oswald', sans-serif;
+}
+#z1
+{
+	font-size: 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+#line
+{
+	color: white;
+	font-size: 30px;
+}
+
+#line2
+{
+	color: rgb(250, 178, 14);
+	font-size: 22px;	
+}
+
+#wh
+{
+	color: white;
+}
+
+#wh a
+{
+	color: white;
+}
+
+#red a
+{
+color: rgb(250, 178, 14);
+}
+
+.sf-container {
+
+    padding: 5px;
+    margin-bottom: 137px;
+    margin-top: 50px;
+}
+
+
+
+.sf-container .input-box,
+.sf-container button {
+    margin: 10px;
+}
+
+.subscribe-section {
+	margin-top: 75px;
+}
+
+.subscription-form .input-box {
+	width: 300px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	height: 55px;
+	border-radius: 3px;
+	font-size: 16px;
+	color: #000000;
+	box-shadow: inherit;
+}
+
+.subscription-success,
+.subscription-error {
+    color: #FFFFFF;
+}
+
+.standard-button {
+font-family: 'Ubuntu', sans-serif;
+  background: rgb(250, 178, 14);
+  color: #ffffff;
+  font-size: 22px;
+}
+.standard-button:hover {
+  color: #ffffff;
+  background: #d87919;
+}
+
+.client-cover {
+    padding: 40px;
+}
+.client-cover #carousel-clients h4 {
+    
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.client-cover #carousel-clients h3 {
+    color:rgb(250, 178, 14);
+    line-height: 35px;
+    font-size: 25px;
+}
+
+.client-cover #carousel-clients .clients-img {
+    border: 5px solid rgb(250, 178, 14);
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.nav>li.dropdown.open>a.dropdown-toggle{background:transparent;color:#2dcc70}
+
+header .dropdown-menu{margin-top:20px}
+header .dropdown-menu:before{display:none!important}
+.navbar .nav li.dropdown.open>.dropdown-toggle,.navbar .nav li.dropdown.active>.dropdown-toggle,.navbar .nav li.dropdown.open.active>.dropdown-toggle{background-color:transparent;color:rgb(250, 178, 14)}
+
+
+#custom_carousel .item {
+
+    color:  rgb(250, 178, 14);
+    padding:20px 0;
+}
+#custom_carousel .controls{
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding:0;
+    margin:0;
+    white-space: nowrap;
+    text-align: center;
+    position: relative;
+}
+#custom_carousel .controls li {
+    display: table-cell;
+    width: 1%;
+    max-width:90px
+}
+#custom_carousel .controls li.active {
+
+    border-top:3px solid orange;
+}
+#custom_carousel .controls a small {
+    overflow:hidden;
+    display:block;
+    font-size:10px;
+    margin-top:5px;
+    font-weight:bold
+}
+
+#youtube
+{
+	width:600px;
+	height: 400px;
+}
+#zupp
+{
+	width: 400px;
+}
+#red
+{
+	width:62%;
+}
+
+@media screen and (max-width: 480px) {
+    #youtube {
+        width:300px;
+        height: 200px;
+    }
+	#zupp
+	{
+		width:200px;
+	}
+
+	#red
+	{
+		width:100%;
+	}
+
+}
